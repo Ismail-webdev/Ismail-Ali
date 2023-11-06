@@ -8,11 +8,10 @@
 
 - 🔭 I’m currently studying **Computer Applications **
 - 👯 I’m looking to collaborate on [Programming related Content & post on Instagram ](https://www.instagram.com/rccodes/)
-- 🤝 I’m looking for help with ** React**
-- 🌱 I’m currently learning **Java & Php**
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about **Html & CSS**
-- 📫 How to reach me **Itschauhan101@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/Rohan-rccodes**
+- 📫 How to reach me **ismailali082786@gmail.com**
+- 👨‍💻 All of my projects are available at **https://github.com/Ismail-webdev**
 - ⚡ Fun fact **I'm funny..**
 
 <h3 align="left">Connect with me:</h3>
