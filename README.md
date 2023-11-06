@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/IsmailAli082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rohan-rccodes" height="30" width="40" /></a>  
-<a href="https://fb.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
+<a href="https://fb.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
 <a href="https://instagram.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
 <a href="https://discord.gg/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
 <!-- <a href = "mailto:Itschauhan101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" /></a> -->
