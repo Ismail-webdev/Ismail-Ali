@@ -7,7 +7,6 @@
 <img align="right" alt="coding-gif" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🔭 I’m currently studying **Computer Applications **
-- 👯 I’m looking to collaborate on [Programming related Content & post on Instagram ](https://www.instagram.com/rccodes/)
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Html & CSS**
 - 📫 How to reach me **ismailali082786@gmail.com**
@@ -18,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/IsmailAli082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rohan-rccodes" height="30" width="40" /></a>  
 <a href="https://fb.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
-<a href="https://instagram.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
+<a href="https://instagram.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
 <a href="https://discord.gg/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
 <!-- <a href = "mailto:Itschauhan101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" /></a> -->
 </p>
